@@ -1,4 +1,4 @@
-# Watch Out for .mov Domains
+# Watch Out for .mov Domains!
 
 If you clicked on birthdayparty.mov in a message or email someone sent you and ended up here instead of watching a video, you might be wondering what's going on. Let me explain…
 
@@ -8,4 +8,4 @@ So if your friend sends you a video of their birthday party and says "Here's the
 
 Bad actors can abuse this by creating malicious .mov websites in the hopes that users like you will go there by mistake. For example, they can create a site that automatically downloads malware, or they may try to trick you into entering your personal details.
 
-So now you know! Stay safe out there 
+So now you know! Stay safe out there!
